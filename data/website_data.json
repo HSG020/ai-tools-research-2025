@@ -1,0 +1,91 @@
+{
+  "research_date": "2025-07-09",
+  "websites": [
+    {
+      "site": "雪兽软件",
+      "url": "https://www.snowbeasts.com/blog/details/592",
+      "title": "2024年20个最好的AI工具和应用",
+      "publish_date": "2024-04-28",
+      "views": "86690",
+      "tools": [
+        {
+          "category": "AI聊天机器人",
+          "tools": [
+            {"name": "GPT-4 (ChatGPT)", "company": "OpenAI", "features": "最新版本LLM，创造性和准确性，免费基础版和付费版"},
+            {"name": "Gemini", "company": "Google", "features": "连接实时搜索结果，多任务语言理解，集成谷歌扩展"},
+            {"name": "Claude", "company": "Anthropic", "features": "注重安全性，可定制对话语气，创意内容生成"},
+            {"name": "Cohere Generate", "company": "Cohere", "features": "面向业务用例，文案和数据提取，API集成简单"},
+            {"name": "Pi", "company": "Inflection AI", "features": "个性化对话，情感支持，真正的人类体验"},
+            {"name": "Llama 2", "company": "Meta", "features": "开源免费，可本地部署，较小模型尺寸"},
+            {"name": "BLOOM", "company": "BigScience", "features": "多语言支持(59种)，文本补全，1760亿参数"}
+          ]
+        },
+        {
+          "category": "商业AI工具",
+          "tools": [
+            {"name": "Microsoft Copilot", "company": "Microsoft", "features": "Office 365集成，内容创建和总结，多产品支持"},
+            {"name": "Jasper", "company": "Jasper", "features": "营销内容生成，品牌声音定制，SEO优化"},
+            {"name": "Glean", "company": "Glean", "features": "企业级搜索，智能内容推荐，安全性强"},
+            {"name": "Notion AI", "company": "Notion", "features": "项目管理，问答功能，内容摘要"}
+          ]
+        },
+        {
+          "category": "开发者AI工具",
+          "tools": [
+            {"name": "GitHub Copilot", "company": "Microsoft", "features": "AI代码生成，多语言支持，IDE集成"},
+            {"name": "AI21 Studio", "company": "AI21 Labs", "features": "企业级API，任务专用模型，易于集成"},
+            {"name": "Tabnine", "company": "Tabnine", "features": "代码补全，隐私保护，上下文感知"}
+          ]
+        },
+        {
+          "category": "创意AI工具",
+          "tools": [
+            {"name": "Synthesia", "company": "Synthesia", "features": "AI视频创作，虚拟头像，无需视频设备"},
+            {"name": "DALL-E 3", "company": "OpenAI", "features": "图像生成，ChatGPT集成，详细图像"},
+            {"name": "Midjourney", "company": "Midjourney", "features": "图像生成编辑，样式调谐器，Discord访问"},
+            {"name": "Adobe Firefly", "company": "Adobe", "features": "创意Cloud集成，生成填充，文本效果"},
+            {"name": "Stable Diffusion XL", "company": "Stability AI", "features": "开源图像生成，API友好，高质量输出"},
+            {"name": "FlexClip", "company": "FlexClip", "features": "AI视频编辑，模板库，文生图功能"}
+          ]
+        }
+      ]
+    },
+    {
+      "site": "LogoDesign标设网",
+      "url": "https://www.logodesign.cn/appreciate/397.html",
+      "title": "国内AI好用榜：2025年用户量与综合体验TOP10",
+      "publish_date": "2025-04-20",
+      "views": "1468",
+      "tools": [
+        {"rank": 1, "name": "DeepSeek", "company": "深度求索", "users": "月活1.94亿", "features": "开源生态，数学推理，本地部署"},
+        {"rank": 2, "name": "豆包", "company": "字节跳动", "users": "月活1.16亿", "features": "多模态交互，中文拟人度高，PDF解析"},
+        {"rank": 3, "name": "腾讯元宝", "company": "腾讯", "users": "月活4164万", "features": "DeepSeek-R1模型，微信生态，文件解析"},
+        {"rank": 4, "name": "夸克", "company": "阿里巴巴", "users": "月活1.48亿", "features": "AI搜索，长文本处理，电商集成"},
+        {"rank": 5, "name": "即梦AI", "company": "字节跳动", "users": "月活2037万", "features": "文生视频，动态海报，一句话P图"},
+        {"rank": 6, "name": "文小言", "company": "百度", "users": "月活1393万", "features": "搜索生态，多模态创作，免费策略"},
+        {"rank": 7, "name": "通义", "company": "阿里巴巴", "users": "月活552万", "features": "电商文案，多语言翻译，淘宝集成"},
+        {"rank": 8, "name": "智谱清言", "company": "智谱AI", "users": "月活1043万", "features": "GLM-4模型，PPT/Excel生成，科研场景"},
+        {"rank": 9, "name": "秘塔搜索", "company": "秘塔科技", "users": "未披露", "features": "学术搜索，DeepSeek集成，推理能力"},
+        {"rank": 10, "name": "Kimi", "company": "月之暗面", "users": "月活2649万", "features": "长文本处理，PPT生成，法律分析"}
+      ]
+    },
+    {
+      "site": "AI工具集",
+      "url": "https://ai-bot.cn/favorites/ai-programming-tools/",
+      "title": "50+ AI编程工具和助手（2025年最新整理）",
+      "category": "AI编程工具",
+      "tools": [
+        {"name": "Trae", "company": "字节跳动", "features": "免费，基于Claude模型"},
+        {"name": "通义灵码", "company": "阿里巴巴", "features": "免费，基于通义大模型"},
+        {"name": "文心快码", "company": "百度", "features": "基于文心大模型"},
+        {"name": "豆包AI编程", "company": "字节跳动", "features": "AI编程新功能"},
+        {"name": "Cursor", "company": "Cursor", "features": "AI代码编辑器，快速开发"},
+        {"name": "GitHub Copilot", "company": "GitHub", "features": "AI编程工具"},
+        {"name": "代码小浣熊", "company": "商汤科技", "features": "免费AI编程助手"},
+        {"name": "Firebase Studio", "company": "Google", "features": "一站式全栈应用开发"},
+        {"name": "Windsurf", "company": "Codeium", "features": "AI编程工具"},
+        {"name": "Bolt.new", "company": "StackBlitz", "features": "全栈AI代码工具"}
+      ]
+    }
+  ]
+}
